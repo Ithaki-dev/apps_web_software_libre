@@ -1,8 +1,8 @@
 # Taller de Vagrant y Debian Bookworm
 
-**Curso:** Administración de Sistemas Operativos  
+**Curso:** ISW-811
 **Estudiante:** Robert Quesada  
-**Fecha:** [Fecha de entrega]
+**Fecha:** 01/06/26
 
 ---
 
